@@ -5,6 +5,23 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   baseUrl: '/',
   favicon: 'img/laptop/favicon.ico',
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preload',
+        href: 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap',
+        as: 'style',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap',
+      },
+    },
+  ],
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -40,6 +57,12 @@ const config: Config = {
     ],
   ],
   projectName: 'fonsdant.github.io',
+  stylesheets: [
+    {
+      href: 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap',
+      type: 'text/css',
+    },
+  ],
   themeConfig: {
     navbar: {
       items: [
