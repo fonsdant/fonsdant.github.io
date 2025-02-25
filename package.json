@@ -35,9 +35,8 @@
   "scripts": {
     "build": "docusaurus build",
     "clear": "docusaurus clear",
-    "deploy": "GIT_USER=<your-username> npm run deploy",
+    "deploy": "docusaurus clear",
     "docusaurus": "docusaurus",
-    "predeploy": "npm run build",
     "serve": "docusaurus serve",
     "start": "docusaurus start",
     "swizzle": "docusaurus swizzle",
