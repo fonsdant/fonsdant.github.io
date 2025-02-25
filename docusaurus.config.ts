@@ -33,12 +33,9 @@ const config: Config = {
     [
       'classic',
       {
-        docs: {
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          sidebarPath: './sidebars.ts',
-        },
+        docs: false,
         blog: {
+          blogSidebarCount: 'ALL',
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           feedOptions: {
@@ -66,12 +63,6 @@ const config: Config = {
   themeConfig: {
     navbar: {
       items: [
-        {
-          label: 'tutorial',
-          position: 'left',
-          sidebarId: 'tutorialSidebar',
-          type: 'docSidebar',
-        },
         { 
           label: 'blog',
           position: 'left',
