@@ -21,10 +21,20 @@ const config: Config = {
         href: 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap',
       },
     },
-  ],
+  ],  
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt-br',
+    locales: ['pt-br', 'en'],
+    localeConfigs: {
+      'pt-br': {
+        label: 'PT-BR',
+        direction: 'ltr',
+      },
+      en: {
+        label: 'EN',
+        direction: 'ltr',
+      },
+    },
   },
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -64,12 +74,16 @@ const config: Config = {
     navbar: {
       items: [
         { 
-          label: 'blog',
+          label: 'BLOG',
           position: 'left',
           to: '/blog'
         },
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
       ],
-      title: 'fonsdant',
+      title: 'FONSDANT',
     },
     prism: {
       darkTheme: prismThemes.dracula,
