@@ -1,5 +1,10 @@
 ---
-gradle:
-  description: Publicações sobre Gradle
-  label: gradle
-  permalink: /gradle
+clean-architecture:
+  label: Clean Architecture
+clean-code:
+  label: Clean Code
+documentacao:
+  label: documentação
+docusaurus: null
+gradle: null
+java: null

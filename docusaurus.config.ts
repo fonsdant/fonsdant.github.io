@@ -46,8 +46,7 @@ const config: Config = {
         docs: false,
         blog: {
           blogSidebarCount: 'ALL',
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          blogSidebarTitle: 'alooo',
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,

@@ -1,6 +1,6 @@
 ---
 authors: [fonsdant]
-tags: [gradle]
+tags: [documentacao, clean-code]
 ---
 
 # PRIMEIRA GUERRA MUNDIAL
