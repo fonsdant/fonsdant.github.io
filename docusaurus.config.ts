@@ -73,7 +73,7 @@ const config: Config = {
     navbar: {
       items: [
         { 
-          label: 'BLOG',
+          label: 'blog',
           position: 'left',
           to: '/blog'
         },
@@ -82,7 +82,7 @@ const config: Config = {
           position: 'right',
         },
       ],
-      title: 'FONSDANT',
+      title: 'fonsdant',
     },
     prism: {
       darkTheme: prismThemes.dracula,
