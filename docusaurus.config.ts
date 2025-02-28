@@ -27,12 +27,10 @@ const config: Config = {
     locales: ['pt-br', 'en'],
     localeConfigs: {
       'pt-br': {
-        label: 'PT-BR',
-        direction: 'ltr',
+        label: 'pt-br'
       },
       en: {
-        label: 'EN',
-        direction: 'ltr',
+        label: 'en'
       },
     },
   },
