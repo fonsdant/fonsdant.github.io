@@ -1,4 +1,5 @@
 ---
+ansiedade: null
 clean-architecture:
   label: Clean Architecture
 clean-code:
@@ -6,5 +7,6 @@ clean-code:
 documentacao:
   label: documentação
 docusaurus: null
+foco: null
 gradle: null
 java: null
