@@ -1,10 +1,9 @@
 ---
 authors:
-  - fonsdant
-date: "2025-03-07T15:19"
+- fonsdant
 tags:
-  - ansiedade
-  - foco
+- ansiedade
+- foco
 ---
 
 # Fichamento: como respirar para ter mais foco e menos ansiedade

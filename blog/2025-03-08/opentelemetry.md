@@ -1,9 +1,9 @@
 ---
 authors:
-  - fonsdant
+- fonsdant
 tags:
-  - observability
-  - opentelemetry
+- observability
+- opentelemetry
 ---
 
 # Fichamento sobre OpenTelemetry: o que é OpenTelemetry?
@@ -11,8 +11,8 @@ tags:
 ------------------------------------------------------------------------
 
 OPENTELEMETRY. O que é OpenTelemetry?. *In*: OPENTELEMETRY.
-**Documentation**. Tradução própria. \[*S. l.*: *s. n.*\], c2025.
-Disponível em: https://opentelemetry.io/docs/what-is-opentelemetry/.
+**Documentação**. Tradução própria. \[*S. l.*: *s. n.*\], c2025.
+Disponível em: https://opentelemetry.io/docs/what-is-opentelemetry.
 Acesso em: 8 mar. 2025. Título original: What is OpenTelemetry?.
 
 ------------------------------------------------------------------------
