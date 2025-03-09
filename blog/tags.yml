@@ -11,5 +11,6 @@ foco: null
 gradle: null
 java: null
 observability: null
-opentelemetry: null
+opentelemetry:
+  label: OpenTelemetry
 
