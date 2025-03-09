@@ -32,10 +32,10 @@ https://opentelemetry.io/docs/concepts/observability-primer. Acesso em:
 -   ***Log***, ou registro, é uma mensagem com uma marcação temporal;
     complementarmente útil quando parte de um *span* ou correlacionado
     com um *trace* e um *span*.
--   ***Span***, ou intervalo, representa uma operação e mostra o que
-    aconteceu durante sua execução; contém nome, informações temporais,
-    *logs* e metadados (chamados "atributos") com informações sobre as
-    operação rastreada.
+-   ***Span***, ou intervalo, representa uma unidade de trabalho ou
+    operação, mostra o que aconteceu durante sua execução; contém nome,
+    informações temporais, *logs* e metadados (chamados "atributos") com
+    informações sobre as operação rastreada.
 -   ***Trace***, ou rastro, permite se observar uma requisição (isto é,
     os caminhos que ela faz) conforme ela se propaga pelo sistema; é
     composto por um ou mais *spans*.
@@ -48,3 +48,4 @@ https://opentelemetry.io/docs/concepts/observability-primer. Acesso em:
 -   **SLO**, ou *Service Level Objective*, representa como a
     confiabilidade é comunicada, a partir da associação de um ou mais
     SLIs.
+
