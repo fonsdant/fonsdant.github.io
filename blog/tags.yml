@@ -4,11 +4,14 @@ clean-architecture:
   label: Clean Architecture
 clean-code:
   label: Clean Code
+devops:
+  label: DevOps
 documentacao:
   label: documentação
 docusaurus: null
 foco: null
 gradle: null
+infraestrutura: null
 java: null
 observability: null
 opentelemetry:

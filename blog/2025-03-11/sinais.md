@@ -12,7 +12,7 @@ tags:
 
 OPENTELEMETRY. Sinais. *In*: OPENTELEMETRY. **Documentação**. Tradução
 própria. \[*S. l.*: *s. n.*\], c2025. Disponível em:
-https://opentelemetry.io/docs/concepts/signals. Acesso em: 9 mar. 2025.
+https://opentelemetry.io/docs/concepts/signals. Acesso em: 11 mar. 2025.
 Título original: Signals.
 
 ------------------------------------------------------------------------
