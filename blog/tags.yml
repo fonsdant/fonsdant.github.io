@@ -7,13 +7,13 @@ clean-code:
 devops:
   label: DevOps
 documentacao:
-  label: documentação
+  label: Documentação
 docusaurus: null
 foco: null
 gradle: null
 infraestrutura: null
 java: null
+kubernetes: null
 observability: null
 opentelemetry:
   label: OpenTelemetry
-
