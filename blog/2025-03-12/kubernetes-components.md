@@ -14,7 +14,7 @@ tags:
 THE KUBERNETES AUTHORS. Componentes do Kubernetes. *In*: THE KUBERNETES
 AUTHORS. **Documentação do Kubernetes**. Tradução própria. \[*S. l.*\]:
 The Linux Foundation, c2025. Disponível em:
-https://kubernetes.io/docs/concepts/overview. Acesso em: 12 mar. 2025.
+https://kubernetes.io/docs/concepts/components. Acesso em: 12 mar. 2025.
 Título original: Kubernetes Components.
 
 ------------------------------------------------------------------------
